@@ -1,7 +1,8 @@
 
 <p align="center"><a href="https://www.tatli.dev/"><img src="https://i.hizliresim.com/blvcszp.png"></img></a></p>
 <h2 align="center">Hi, I'm <b>Emin</b> check out my <a href="https://www.tatli.dev"><b>Personal Web Site</b></a></h2>
-<h2 align="center">Upwork<a href="[https://www.tatli.dev](https://www.upwork.com/freelancers/~01bf704a153a9751a7)"><b>upwork/emintatli</b></a></h2>
+![image](https://user-images.githubusercontent.com/17429183/172045317-0c7517e0-a070-4862-9734-8e3df8725689.png)
+<h2 align="center">Upwork:<a href="https://www.upwork.com/freelancers/~01bf704a153a9751a7"><b>emintatli</b></a></h2>
 <p align="center"><a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
